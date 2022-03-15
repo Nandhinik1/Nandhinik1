@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nandhini K
+- 👋 Hi, I’m Nandhini K
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Hybris Technology
 - 📫 You can reach me on nandhinik1798@gmail.com
